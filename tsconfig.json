@@ -3,7 +3,7 @@
   "compilerOptions": {
     "target": "ESNext",
     "useDefineForClassFields": true,
-    "module": "ESNext",
+    "module": "commonjs",
     "lib": ["ESNext","DOM"],
     "moduleResolution": "Node",
     "strict": true,
@@ -16,6 +16,7 @@
     "noUnusedParameters": true,
     "noImplicitReturns": false,
     "skipLibCheck": true,
+    "experimentalDecorators": true,
     "jsx": "react-jsx",
     "baseUrl": "./packages" // typescript的基础入口
   }
