@@ -26,6 +26,16 @@
         "prettier/prettier": "error",
         "no-case-declarations": "off",
         "no-constant-condition": "off",
-        "@typescript-eslint/ban-ts-comment": "off"
+        "@typescript-eslint/ban-ts-comment": "off",
+        "@typescript-eslint/no-var-requires": "off",
+        "@typescript-eslint/no-empty-function": "off",
+        "react/react-in-jsx-scope": "off",
+        "no-undef": "off",
+        "@typescript-eslint/ban-types": "off"
+    },
+    "settings": {
+        "react": {
+            "version": "999.999.999"
+        }
     }
 }

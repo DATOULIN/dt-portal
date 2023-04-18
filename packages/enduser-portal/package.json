@@ -20,7 +20,6 @@
   "devDependencies": {
     "@babel/plugin-proposal-decorators": "^7.21.0",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.10",
-    "@types/node": "^18.15.11",
     "autoprefixer": "^10.4.14",
     "compression-webpack-plugin": "^10.0.0",
     "copy-webpack-plugin": "^11.0.0",
